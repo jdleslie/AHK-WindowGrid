@@ -1,7 +1,7 @@
 # AHK-WindowGrid
 Cycle through window positions, inspired by the [gTile](https://github.com/gTile/gTile) extension for Gnome.
 
-I created this to streamline workflow on a 21:9 ultra-widescreen display where I like to organize windows as 25%, 50%, 25% so my main task is in the center. Perhaps this will be useful for you as well!
+I created this to streamline workflow on a 21:9 ultra-widescreen display where I like to organize windows as 25%, 50%, 25% so my main task is in the center. Halves, thirds, and quarters are also useful. Perhaps this will be helpful for you as well!
 
 Works for me with [AutoHotKey](https://autohotkey.com) (AHK) 1.1.30
 
