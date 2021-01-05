@@ -69,5 +69,6 @@ See [`example.ahk`](example.ahk) for more.
 ## References
 
 * [gTile](https://github.com/gTile/gTile) Gnome shell extension offers similar functionality
+* MacOS has lots of options. I use [Rectangle](https://rectangleapp.com/) with success, but it is not as flexible
 * AHK methods similar to [AdvancedWindowSnap](https://gist.github.com/AWMooreCO/1ef708055a11862ca9dc) and its [forks](https://gist.github.com/park-brian/f3f790e559e5145b99bf0f19c7928dd8)
 * Uses [WinGetPosEx](https://github.com/pacobyte/AutoHotkey-Lib-WinGetPosEx) to calculate true window dimensions (Aero/DWM makes this a nontrivial task with each major Windows release)
