@@ -34,7 +34,7 @@ Works for me with [AutoHotKey](https://autohotkey.com) (AHK) 1.1.30
     2. Reverse the order of positions to allow forward and backward cycles
     3. etc.
 
-See [`examples.ahk`](examples.ahk) for more. 
+See [`example.ahk`](example.ahk) for more. 
 
 ### Active Window snaps to 1/2 width, full height
 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>2</kbd>
