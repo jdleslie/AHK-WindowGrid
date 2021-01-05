@@ -9,6 +9,7 @@
  * Look at `example.ahk` for examples.
  *
  * @author jdleslie
+ * @license MIT
  *
  * @link https://github/jdleslie/AHK-WindowGrid
  */
